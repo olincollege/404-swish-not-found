@@ -2,6 +2,8 @@
 
 An automated basketball hoop that uses computer vision to track shots, predict trajectory, and actuate the basketball hoop.
 
+[Watch the video demo!](https://www.youtube.com/watch?v=4lS1lKCNuzg)
+
 ## Overview
 
 404 Swish Not Found is an open-source project that combines hardware and software to create an automated basketball hoop capable of tracking shots using computer vision and moving the hoop to make (almost) every shot go in.
