@@ -12,7 +12,7 @@ An automated basketball hoop that uses computer vision to track shots, predict t
 
 - **Real-Time Tracking**: Utilizes an Xbox Kinect for real-time ball tracking, then it predicts its trajectory.
 - **Open-Source Software**: Written in Python with various libraries for image processing and data analysis.
-- **Dynamic Hoop Positioning: Uses stepper motors controlled via an Arduino to reposition the hoop based on ball trajectory predictions.
+- **Dynamic Hoop Positioning**: Uses stepper motors controlled via an Arduino to reposition the hoop based on ball trajectory predictions.
 
 ## Software Design
 
